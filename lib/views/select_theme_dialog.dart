@@ -1,4 +1,4 @@
-import 'package:boilerplate_ui/utils/SizeConfig.dart';
+import 'package:hawkeye_travel_app/utils/SizeConfig.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../app_theme.dart';

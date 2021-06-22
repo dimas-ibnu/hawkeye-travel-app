@@ -1,4 +1,4 @@
-name: boilerplate_ui
+name: hawkeye_travel_app
 description: Boilerplate by Dimas Ibnu Malik github.com/dimas-ibnu.
 
 # The following line prevents the package from being accidentally published to
@@ -75,6 +75,108 @@ flutter:
     - assets/images/categories/earth.png
     - assets/images/categories/love.png
     - assets/images/categories/pinus.png
+
+    #Iconly
+    - assets/icons/2 User.svg                
+    - assets/icons/3 User.svg                
+    - assets/icons/Activity.svg               
+    - assets/icons/Add User.svg              
+    - assets/icons/Arrow - Down 2.svg        
+    - assets/icons/Arrow - Down 3.svg        
+    - assets/icons/Arrow - Down Circle.svg   
+    - assets/icons/Arrow - Down Square.svg   
+    - assets/icons/Arrow - Down.svg          
+    - assets/icons/Arrow - Left 2.svg        
+    - assets/icons/Arrow - Left 3.svg        
+    - assets/icons/Arrow - Left Circle.svg   
+    - assets/icons/Arrow - Left Square.svg   
+    - assets/icons/Arrow - Left.svg          
+    - assets/icons/Arrow - Right 2.svg       
+    - assets/icons/Arrow - Right 3.svg       
+    - assets/icons/Arrow - Right Circle.svg  
+    - assets/icons/Arrow - Right Square.svg  
+    - assets/icons/Arrow - Right.svg         
+    - assets/icons/Arrow - Up 2.svg          
+    - assets/icons/Arrow - Up 3.svg     
+    - assets/icons/Arrow - Up Circle.svg
+    - assets/icons/Arrow - Up Square.svg
+    - assets/icons/Arrow - Up.svg       
+    - assets/icons/Bag 2.svg            
+    - assets/icons/Bag.svg               
+    - assets/icons/Bookmark.svg          
+    - assets/icons/Buy.svg               
+    - assets/icons/Calendar.svg          
+    - assets/icons/Call Missed.svg      
+    - assets/icons/Call Silent.svg      
+    - assets/icons/Call.svg              
+    - assets/icons/Calling.svg           
+    - assets/icons/Camera.svg            
+    - assets/icons/Category.svg          
+    - assets/icons/Chart.svg             
+    - assets/icons/Chat.svg              
+    - assets/icons/Close Square.svg     
+    - assets/icons/Danger.svg            
+    - assets/icons/Delete.svg
+    - assets/icons/Discount.svg    
+    - assets/icons/Discovery.svg    
+    - assets/icons/Document.svg     
+    - assets/icons/Download.svg     
+    - assets/icons/Edit Square.svg 
+    - assets/icons/Edit.svg         
+    - assets/icons/Filter 2.svg    
+    - assets/icons/Filter.svg       
+    - assets/icons/Folder.svg       
+    - assets/icons/Game.svg         
+    - assets/icons/Graph.svg        
+    - assets/icons/Heart.svg        
+    - assets/icons/Hide.svg         
+    - assets/icons/Home.svg         
+    - assets/icons/Image 2.svg     
+    - assets/icons/Image.svg        
+    - assets/icons/Info Circle.svg 
+    - assets/icons/Info Square.svg 
+    - assets/icons/Location.svg     
+    - assets/icons/Lock.svg
+    - assets/icons/Login.svg
+    - assets/icons/Logout.svg
+    - assets/icons/Message.svg
+    - assets/icons/More Circle.svg
+    - assets/icons/More Square.svg
+    - assets/icons/Notification.svg
+    - assets/icons/Paper Download.svg
+    - assets/icons/Paper Fail.svg
+    - assets/icons/Paper Negative.svg
+    - assets/icons/Paper Plus.svg
+    - assets/icons/Paper Upload.svg
+    - assets/icons/Paper.svg
+    - assets/icons/Password.svg
+    - assets/icons/Play.svg
+    - assets/icons/Plus.svg
+    - assets/icons/Profile.svg
+    - assets/icons/Scan.svg
+    - assets/icons/Search.svg
+    - assets/icons/Send.svg
+    - assets/icons/Setting.svg
+    - assets/icons/Shield Done.svg
+    - assets/icons/Shield Fail.svg
+    - assets/icons/Show.svg
+    - assets/icons/Star.svg
+    - assets/icons/Swap.svg
+    - assets/icons/Tick Square.svg
+    - assets/icons/Ticket Star.svg
+    - assets/icons/Ticket.svg
+    - assets/icons/Time Circle.svg
+    - assets/icons/Time Square.svg
+    - assets/icons/Unlock.svg
+    - assets/icons/Upload.svg
+    - assets/icons/Video.svg
+    - assets/icons/Voice 2.svg
+    - assets/icons/Voice.svg
+    - assets/icons/Volume Down.svg
+    - assets/icons/Volume Off.svg
+    - assets/icons/Volume Up.svg
+    - assets/icons/Wallet.svg
+    - assets/icons/Work.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
